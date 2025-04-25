@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @hakasenano-gif
-- 👀 I’m interested in program.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on ??
-- 📫 How to reach me 
-
-<!---
-hakasenano-gif/hakasenano-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Takeuchi Rikuto
+🎓 I’m a Master’s student (M1) in Information Science and Technology at Osaka University.
+💡 I’m currently learning Generative AI.
+🤝 I’m looking to collaborate on AI projects, open-source contributions, or machine learning applications.
+Feel free to reach out if you’re interested in working together!
